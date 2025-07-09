@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 comptia network+, Security+ certified
+- 🌱Cybersecurity Professional | Digital Forensics Investigator | CompTIA Certified (CySA+ | Security+ | Network+) | B.Tech In Cybersecurity and Blockchain -CSE'26 | Lovely Professional University.
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kushvanth/](https://www.linkedin.com/in/kushvanth/)
 
