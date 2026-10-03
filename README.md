@@ -6,10 +6,10 @@
 █████╔╝ ██║   ██║███████╗███████║██║   ██║███████║██╔██╗ ██║   ██║   ███████║
 ██╔═██╗ ██║   ██║╚════██║██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║   ██║   ██╔══██║
 ██║  ██╗╚██████╔╝███████║██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║   ██║   ██║  ██║
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝  ╚═╝  ╚═╝
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=Cybersecurity+Engineer+%7C+Penetration+Tester;Cloud+Security+%7C+AWS+%7C+SIEM+%26+Threat+Detection;CompTIA+CySA%2B+%7C+PenTest%2B+%7C+Security%2B+%7C+Network%2B;CTF+Player+%7C+Security+Researcher+%7C+Open+To+Hire" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=Cloud+SecOps+Engineer+%7C+AWS+Security;SOC+Operations+%7C+Incident+Management+%7C+CSPM;CompTIA+CySA%2B+%7C+PenTest%2B+%7C+Security%2B+%7C+Network%2B;Mumbai%2C+India+%7C+Always+Learning" alt="Typing SVG" />
 
 <br/>
 
@@ -27,29 +27,44 @@
 
 ```json
 {
-  "Version": "2012-10-17",
-  "Statement": [{
-    "Effect": "Allow",
-    "Principal": {
-      "Candidate": "Kushvanth_Chapala"
-    },
-    "Action": [
-      "security:BreakAndFixSystems",
-      "cloud:DefendAWSInfrastructure",
-      "pentest:FindCriticalVulns",
-      "siem:MonitorThreatActors"
-    ],
-    "Condition": {
-      "StringEquals": {
-        "iam:CTF_Rank": "Top_10_Percent",
-        "iam:Status": "OPEN_FOR_HIRE"
-      }
+  "Effect": "Allow",
+  "Principal": {
+    "Engineer": "Kushvanth_Chapala"
+  },
+  "Action": [
+    "soc:TriageAndInvestigateAlerts",
+    "cloud:SecureAWSInfrastructure",
+    "incident:ContainAndDocument",
+    "cspm:RemediateMisconfigurations"
+  ],
+  "Resource": "arn:aws:enterprise::*",
+  "Condition": {
+    "StringEquals": {
+      "iam:Location": "Mumbai_India",
+      "iam:Status": "ALWAYS_LEARNING"
     }
-  }]
+  }
 }
 ```
 
 <br clear="right"/>
+
+---
+
+## 🧠 About
+
+I'm a **Cloud SecOps Engineer** specializing in AWS security, SOC operations, incident management and CSPM. I catch threats fast, fix misconfigurations at the root, and turn every incident into a stronger defense.
+
+I started with a six-month internship in SOC operations and cloud security, and now work full time on detection and prevention together.
+
+---
+
+## 💼 Experience
+
+| Period | Role | Focus |
+|---|---|---|
+| `PRESENT` | **Cloud SecOps Engineer** | Alert triage and investigation, incident handling, CSPM remediation across AWS |
+| `6 MONTHS` | **Intern, SOC Operations and Cloud Security** | Alert monitoring, incident management, AWS misconfiguration reviews |
 
 ---
 
@@ -59,47 +74,56 @@
 <tr>
 <td valign="top">
 
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td valign="top">
-
-**Cloud & DevOps**
+**Cloud & CSPM**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CSPM](https://img.shields.io/badge/CSPM-00ff41?style=flat-square&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
 <td valign="top">
 
-**Security Tools**
+**SIEM & SOC**
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-054ADA?style=flat-square&logo=ibm&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+
+</td>
+<td valign="top">
+
+**Network & Endpoint**
+
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Prisma Browser](https://img.shields.io/badge/Prisma_Browser-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+**Offensive Security**
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+
+</td>
+<td valign="top">
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+<td></td>
+</tr>
 </table>
-
----
-
-## 🗂️ Mission Logs
-
-| ID | Project | Stack | Status |
-|---|---|---|---|
-| `TARGET_01` | [☁️ AWS-Splunk Log Monitoring & Security Analytics](https://github.com/kushvanth7/Cloud-Based-Log-Monitoring-Security-Analytics-using-AWS-Docker-Splunk) | `AWS` `Docker` `Splunk` | ✅ COMPLETE |
-| `TARGET_02` | [🛡️ Vulnerability Assessment & Penetration Testing](https://github.com/kushvanth7/Vulnerability-Assessment-Penetration-Testing-Report) | `Nmap` `Burp Suite` `SQLMap` | ✅ COMPLETE |
-| `TARGET_03` | [📱 Mobile Application Penetration Testing](https://github.com/kushvanth7/mobile-pentest) | `APKTool` `JADX` `Burp Suite` | ✅ COMPLETE |
 
 ---
 
@@ -158,10 +182,10 @@ Sig chain: TRUSTED ✓
 
 <br/>
 
-**`root@kc-sec:~$`** &nbsp; [`🌐 Visit Portfolio → kushvanth7.github.io`](https://kushvanth7.github.io)
+**`root@kc-secops:~$`** &nbsp; [`🌐 Visit Portfolio → kushvanth7.github.io`](https://kushvanth7.github.io)
 
 <br/>
 
-> *`"To defend a system, you must first understand how to break it."`*
+> *`"Detect fast. Fix at the root. Learn from every incident."`*
 
 </div>
